@@ -1,16 +1,30 @@
-## Hi there 👋
+## 👋 Hi, I’m Shree HAri  Sugith
 
-<!--
-**sugith01/sugith01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Engineering student passionate about **Flutter** and **Java** development.  
+📱 I enjoy building mobile apps and solving problems using clean and simple code.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Skills & Technologies
+- Flutter • Dart  
+- Java • OOP  
+- Git & GitHub
+- VS Code
+- Eclipse  
+
+---
+
+### 📌 Featured Projects
+- 🧮 **Flutter Calculator App** – Clean UI & arithmetic logic
+- 📝 **Flutter To-Do List App** – State management & dynamic UI    
+- 🎮 **Tic-Tac-Toe (Java)** – Console-based game logic  
+
+---
+
+### 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-M.%20Shree%20Hari%20Sugith-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/m-shree-hari-sugith-650059320/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-sugith01-black?style=flat&logo=github)](https://github.com/sugith01)
+
+⭐ *Always learning, building, and improving one project at a time.*
