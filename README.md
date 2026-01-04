@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Shree HAri  Sugith
+## 👋 Hi, I’m Shree Hari  Sugith
 
 🎓 Engineering student passionate about **Flutter** and **Java** development.  
 📱 I enjoy building mobile apps and solving problems using clean and simple code.
