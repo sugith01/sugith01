@@ -15,6 +15,7 @@
 ---
 
 ### 📌 Featured Projects
+- 👆 **FINTAP – Flutter Finger Tapping Game** – Fast-paced tapping game with real-time scoring
 - 🧮 **Flutter Calculator App** – Clean UI & arithmetic logic
 - 📝 **Flutter To-Do List App** – State management & dynamic UI    
 - 🎮 **Tic-Tac-Toe (Java)** – Console-based game logic  
